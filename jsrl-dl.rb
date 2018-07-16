@@ -1,5 +1,4 @@
 require 'net/http'
-require 'zip'
 
 station = "ggs"
 station = ARGV[0] if ARGV.length > 0
